@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
+
 <h2>
     <em>Résumé</em> minimalista maquetado para web y pdf
 </h2>
@@ -29,10 +29,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
     <a href="#🔑-licencia">
         Licencia
     </a>
-    <span>&nbsp;✦&nbsp;</span>
-    <a href="https://midu.dev">
-        Personal
-    </a>
    
 </div>
 
@@ -48,7 +44,6 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </div>
 
-<img src="portada.png"></img>
 
 ## 🛠️ Stack
 
