@@ -4,7 +4,7 @@
     "label": "FrontEnd Developer con más de 3 años de experiencia profesional",
     "image": "",
     "email": "david.notjustdev@gmail.com",
-    "phone": "+34 688888888",
+    "phone": "+5804129423480",
     "url": "",
     "summary": "+3 años de experiencia como Desarrollador Web. Vivo en Venezuela. Capaz de autogestionarse eficazmente durante proyectos independientes, así como colaborar como parte de un equipo productivo.",
     "location": {
@@ -195,12 +195,31 @@
   }],
   "projects": [
     {
+      "name": "Lathrop Abogados",
+      "isActive": false,
+      "description": "Agencia de abogados",
+      "highlights": [
+        "Web en production"
+      ],
+      "url": "https://lathrop.legal/"
+    },
+    {
+      "name": "Meat Agency",
+      "isActive": false,
+      "description": "Web para impulsar y crear proyectos",
+      "highlights": [
+        "Web en production"
+      ],
+      "url": "https://www.meatagency.cl/"
+    },
+    {
       "name": "gallery-images",
       "isActive": false,
       "description": "Una galería de imágenes, con un efecto al hover",
       "highlights": [
         "Diseño",
-        "Galería"
+        "Galería",
+        "Proyecto personal"
       ],
       "url": "https://gallery-images-hover-effect.netlify.app/",
       "github": "https://github.com/HankTech/gallery-images-hover-effect"
@@ -212,7 +231,8 @@
       "highlights": [
         "Diseño",
         "card",
-        "3D"
+        "3D",
+        "Proyecto personal"
       ],
       "url": "https://demo-3d-card-hover-effect.netlify.app/",
       "github": "https://github.com/HankTech/3d-card-hover-effect"
@@ -223,7 +243,8 @@
       "description": "Galería con efecto lightbox",
       "highlights": [
         "Diseño",
-        "Responsive"
+        "Responsive",
+        "Proyecto personal"
       ],
       "url": "https://lightbox-grid-image-gallery.netlify.app/",
       "github": "https://github.com/HankTech/lightbox-image-gallery"
