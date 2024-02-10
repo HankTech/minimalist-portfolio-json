@@ -2,11 +2,11 @@
   "basics": {
     "name": "Luis David Flores",
     "label": "FrontEnd Developer con más de 3 años de experiencia profesional",
-    "image": "/me.webp",
+    "image": "",
     "email": "david.notjustdev@gmail.com",
     "phone": "+34 688888888",
     "url": "",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+3 años de experiencia como Desarrollador Web. Vivo en Venezuela. Capaz de autogestionarse eficazmente durante proyectos independientes, así como colaborar como parte de un equipo productivo.",
     "location": {
       "address": "",
       "postalCode": "0286",
@@ -34,7 +34,7 @@
       "url": "https://www.meatcode.cl/",
       "startDate": "2023-02-12",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Actualmente +5 Webs en producción, utilizando Laravel y Vue.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://hostienda.com/",
       "startDate": "2021-03-01",
       "endDate": "2023-11-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Lideré el desarrollo de una App con React Native hasta su salida a producción en la PlayStore. Además de mantener y añadir mejoras a otras Apps",
       "highlights": [
         "Started the company"
       ]
@@ -195,66 +195,38 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "gallery-images",
+      "isActive": false,
+      "description": "Una galería de imágenes, con un efecto al hover",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Diseño",
+        "Galería"
       ],
-      "url": "https://mars.codes"
+      "url": "https://gallery-images-hover-effect.netlify.app/",
+      "github": "https://github.com/HankTech/gallery-images-hover-effect"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "Card Effect",
+      "isActive": false,
+      "description": "Diseño de card",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Diseño",
+        "card",
+        "3D"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://demo-3d-card-hover-effect.netlify.app/",
+      "github": "https://github.com/HankTech/3d-card-hover-effect"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "Lightbox-Gallery",
+      "isActive": false,
+      "description": "Galería con efecto lightbox",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Diseño",
+        "Responsive"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://lightbox-grid-image-gallery.netlify.app/",
+      "github": "https://github.com/HankTech/lightbox-image-gallery"
     }
   ]
 }
